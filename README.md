@@ -1,7 +1,7 @@
 # Applications des coroutines
 ## Vue d'ensemble
 Race Tracker est une application Android développée en utilisant Jetpack Compose. Elle simule une course simple entre deux participants, permettant à l'utilisateur de démarrer, mettre en pause et réinitialiser la course. L'application démontre l'utilisation des animations, la gestion d'état et les éléments d'interface utilisateur dans Compose.
-![projectImage.jpg](projectImage.jpg=250x250 )
+![projectImage.jpg](projectImage.jpg =250x250 )
 
 ## Fonctionnalités
 ```
