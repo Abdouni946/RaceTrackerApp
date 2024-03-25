@@ -35,4 +35,4 @@ Race Tracker est une application Android développée en utilisant Jetpack Compo
 * Utilisez le bouton 'Pause' pour mettre la course en pause à tout moment.
 * Appuyez sur 'Réinitialiser' pour remettre la progression des deux participants à zéro.
 ```
-![projectMove.jpg](projectMove.jpg)
+[<img src="projectMove.jpg" width="250"/>](projectMove.jpg)
